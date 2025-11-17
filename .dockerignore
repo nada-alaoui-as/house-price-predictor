@@ -1,0 +1,22 @@
+# Environnement virtuel
+.venv/
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Fichiers Git
+.git/
+.gitignore
+
+# Fichiers plots générés
+plots/*.png
+
+# Fichiers système
+.DS_Store
+Thumbs.db
